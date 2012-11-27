@@ -3,7 +3,7 @@
 	font-family: Arial;
 }
 
-p, li
+.reservation, .date-horaire, .qui, .organisateur, .telephone, .disposition, .objet, .nbparticipants, .listeparticipants, .participant, li
 {
     color: black;
 	font-size: small;
@@ -17,6 +17,11 @@ p, li
 	word-wrap: break-word;
 }
 
+.date-horaire
+{
+	font-weight: bold;
+}
+
 ul
 {
 	margin-bottom: 1px;
@@ -26,19 +31,19 @@ ul
 	
 }
 
-h1
+.mois
 {
 	font-size: x-large;
 	text-align: center;
 }
 
-h2
+.jour
 {
 	font-size: large;
 	text-align: center;
 }
 
-h3, h4
+.equipement
 {
 	font-size: small;
 	text-align: center;
@@ -47,23 +52,36 @@ h3, h4
 	text-decoration: underline;
 }
 
-h3 mark
-{
-	background-color: yellow;
+.alimentaire
+{	
+	font-size: small;
+	text-align: center;
+	margin-bottom: 1px;
+	margin-top: 1px;
+	text-decoration: underline;
 }
 
-h4 mark
+.nbparticipants
+{
+	text-decoration: underline;
+}
+
+.nbparticipants em
+{
+	background-color: aqua;
+}
+
+.alimentaire em
 {
 	background-color: lime;
 }
 
-p mark
+.equipement em
 {
-	text-decoration: underline;
-	background-color: aqua;
+	background-color: yellow;
 }
 
-section
+.section
 {
     display: inline-block;    
     border: 1px solid black;
