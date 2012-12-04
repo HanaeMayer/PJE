@@ -67,12 +67,14 @@ ul
 	font-style: normal;
 	text-decoration: underline;
 }
+
 .npart
 {
 	font-style: normal;
 	text-decoration: underline;
 	background-color: aqua;
 }
+
 .horaire
 {
 	font-weight: bold;
