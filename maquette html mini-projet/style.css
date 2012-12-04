@@ -3,37 +3,22 @@
 	font-family: Arial;
 }
 
-.reservation, .date-horaire, .qui, .organisateur, .telephone, .disposition, .objet, .nbparticipants, .listeparticipants, .participant, li
+.reservationSalle
 {
     color: black;
 	font-size: small;
 	text-align: justify;
 	width: 100%;
     min-width: 400px;
-	margin: auto;
-	margin-top: none;
-	margin-bottom: none;
 	padding: 1px;
 	word-wrap: break-word;
-}
-
-.typeres, .salle, .date, .hdebut, .hfin, .qui .organisateur, .telequi, .telorg, .disposition, .objet, .nbparticipants, .nomparticipant
-{
-    color: black;
-	font-size: small;
-	text-align: justify;
-	width: 100%;
-    min-width: 400px;
-	margin: auto;
-	margin-top: none;
-	margin-bottom: none;
-	padding: 1px;
-	word-wrap: break-word;
-}
-
-.date-horaire
-{
-	font-weight: bold;
+	display: inline-block;    
+    border: 1px solid black;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 ul
@@ -60,59 +45,40 @@ ul
 .equipement
 {
 	font-size: small;
-	text-align: center;
 	margin-bottom: 1px;
 	margin-top: 1px;
 	text-decoration: underline;
-}
-
-.alimentaire
-{	
-	font-size: small;
-	text-align: center;
-	margin-bottom: 1px;
-	margin-top: 1px;
-	text-decoration: underline;
-}
-
-.nbparticipants
-{
-	text-decoration: underline;
-}
-
-.nbparticipants em
-{
-	background-color: aqua;
-}
-
-.alimentaire em
-{
-	background-color: lime;
-}
-
-.equipement em
-{
 	background-color: yellow;
 }
 
-.section
+.alimentaire
 {
-    display: inline-block;    
-    border: 1px solid black;
-	width: 80%;
-	margin-left: 10%;
-	margin-right: 10%;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	font-size: small;
+	margin-bottom: 1px;
+	margin-top: 1px;
+	text-decoration: underline;
+	background-color: lime;
 }
 
-em
+.subdiv
+{
+	text-align: center;
+}
+
+.res
 {
 	font-style: normal;
 	text-decoration: underline;
 }
 
-strong
+.npart
+{
+	font-style: normal;
+	text-decoration: underline;
+	background-color: aqua;
+}
+
+.horaire
 {
 	font-weight: bold;
 }
