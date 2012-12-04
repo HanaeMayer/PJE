@@ -1,0 +1,11 @@
+http://www.alsacreations.com/article/lire/1376-html5-section-article-nav-header-footer-aside.html
+http://docteurhtml5.com/html5/balise-header/
+
+la balise <header> d'HTML5 remplace la syntaxe <div id="header"> des versions plus anciennes d'HTML.
+
+C'est tout simplement, l'entête de la page (ou eventuellement de l'article ou de la section). On place entre ces balise des titres, des logos, barre de recherche, menu.
+Il existe également une balise <footer> (pied-de-page) pour les conclusions, copyrights, menu, etc.
+
+A l'heure actuelle, il est recommandé de placer dans une règle CSS "header { display:block;}" (comme pour tous les nouveaux éléments de type block) pour les navigateurs n'ayant pas encore complètement intégrés ces nouveautés.
+
+La balise header nous donne la possibilité de structurer nos documents avec une meilleure sémantique pour les en-têtes de sections ou de pages.

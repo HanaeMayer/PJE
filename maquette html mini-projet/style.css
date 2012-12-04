@@ -3,6 +3,11 @@
 	font-family: Arial;
 }
 
+header 
+{
+ display:block;
+ }
+
 .reservationSalle
 {
     color: black;
