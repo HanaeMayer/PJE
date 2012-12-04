@@ -7,7 +7,7 @@ Sous l'onglet "local" cliquer "add" remplir les champs.
 
 Commit:
 *******
-Lorsqu'un changement a été effectué, vous le verrez en cliquant sur le répositoire modifié. Si le changement vous convient, vous pourrez alors le commiter en cliquant sur le bouton à droite de l'interface.
+Lorsqu'un changement a été effectué, vous le verrez en cliquant sur le répositoire modifié sous l'onglet GitHub. Si le changement vous convient, vous pourrez alors le commiter en décrivant le changement puis en cliquant sur le bouton à droite de l'interface.
 Pour synchroniser le répositoire avec le compte GitHub (et partager les modifications) cliquer sur "sync" en haut. Si c'est déjà fait le bouton sera grisé et marqué "in sync".
 
 Partager un répositoire:
