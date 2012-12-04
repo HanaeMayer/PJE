@@ -27,17 +27,18 @@ style.css :
 
 Ce ficher sert à "décorer" notre page html. On y retrouve des balises et des classes suivies de consignes.
 
-ul {
-    list-style-type: none;
-    margin-bottom: 1px;
-    margin-top: 1px;
-    padding-left: 1px;
-}
-
-.mois {
-    font-size: x-large;
-    text-align: center;
-}
+* Exemple:
+* ul {
+*     list-style-type: none;
+*     margin-bottom: 1px;
+*     margin-top: 1px;
+*     padding-left: 1px;
+* }
+*
+* .mois {
+*     font-size: x-large;
+*     text-align: center;
+* }
 
 le point indique que "mois" est une classe. On ne le met pas s'il s'agit d'une balise comme "ul". Ensuite, entre les accolades, on met les consignes attribuées aux contenu des balises ou de la classe. "font-size: x-large;" pour dire que la taille de caractères doit être extra-large, par exemple. L'étoile au début indique que ce qui suit dans les accolades sera attribué à l'ensemble du contenu de la page, c'est-à-dire que l'ensemble de la page sera en police Arial (et non pas, juste les titre).
 
@@ -50,3 +51,19 @@ On utilisera maquette-etape2.html. Encore une fois, si tout est clair à l'ouvert
 - http://www.w3schools.com/json/json_intro.asp
 - http://www.skill-guru.com/blog/2010/01/27/json-javascript-tutorial/
 
+Comme on peut le voir, la partie html n'a pas beaucoup changé. Les informations susceptibles de changer ont été effacées et une "id" à été rajoutée dans la balise <span> correspondante. On va tout de suite voir pourquoi.
+
+Le grand changement c'est la partie rajoutée à la fin, entre les balises <script></script>. Il s'agit d'un objet JSON appelé "reservations" qui est un tableau à deux éléments (les deux réservations) qui sont eux-mêmes des tableaux ("nomVariable":"valeurVariable") et d'une partie script qui va faire le lien entre la partie html et notre objet JSON. Les deux grandes parties du JSON sont les deux réservations du même exemple que celui utilisé dans l'étape 1.
+
+* Exemple :
+*
+* HTML: on donne l'identité "typeres0" à la balise <span> (avec un zéro pour ne pas confondre les deux réservations)
+* <span class="res" id="typeres0"></span>
+*
+* JSON: on donne le nom "res" à la variable qui correspond au type de ressource réservée  et on lui attribue la valeur "Salles de réunion"
+* "res":"Salles de réunion",
+*
+* script: on lie "typeres0" et "reservation[0].res" pour que le navigateur sache qui doit mettre la valeur contenue dans "res" entre les balises <span id="typeres0"></span>
+* document.getElementById("typeres0").innerHTML=reservations[0].res
+
+Le zéro entre crochets derrière reservation est là car l'objet JSON est un tableau (ici à deux éléments dont les indices sont 0 et 1).
