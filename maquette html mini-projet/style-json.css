@@ -1,0 +1,79 @@
+*
+{
+	font-family: Arial;
+}
+
+.reservationSalle
+{
+    color: black;
+	font-size: small;
+	text-align: justify;
+	width: 100%;
+    min-width: 400px;
+	padding: 1px;
+	word-wrap: break-word;
+	display: inline-block;    
+    border: 1px solid black;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+ul
+{
+	margin-bottom: 1px;
+	margin-top: 1px;
+	padding-left: 1px;
+	list-style-type: none;
+	
+}
+
+.mois
+{
+	font-size: x-large;
+	text-align: center;
+}
+
+.jour
+{
+	font-size: large;
+	text-align: center;
+}
+
+.equipement
+{
+	font-size: small;
+	text-align: center;
+	margin-bottom: 1px;
+	margin-top: 1px;
+	text-decoration: underline;
+	background-color: yellow;
+}
+
+.alimentaire
+{
+	font-size: small;
+	text-align: center;
+	margin-bottom: 1px;
+	margin-top: 1px;
+	text-decoration: underline;
+	background-color: lime;
+}
+
+.res
+{
+	font-style: normal;
+	text-decoration: underline;
+}
+.npart
+{
+	font-style: normal;
+	text-decoration: underline;
+	background-color: aqua;
+}
+.horaire
+{
+	font-weight: bold;
+}

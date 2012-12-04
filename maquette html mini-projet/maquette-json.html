@@ -1,54 +1,55 @@
 <!DOCTYPE html>
 
 <html>
-
-    <head>
-        <link rel="stylesheet" href="style.css"
-        <title>Maquette_impression</title>
+	
+	<head>
+        <link rel="stylesheet" href="style-json.css" />
+        <title>Maquette_impression-reservations</title>
     </head>
 	
 	<header>
-		<div class="mois">Novembre</div>http://www.w3schools.com/json/default.asp
+		<div class="mois">Novembre</div>
 		<div class="jour">L 19</div>
 	</header>
 	
     <body>
 	
-		<div class="section">
-			<span id="typeres"><em>Salles de réunion</em></span> > <span id="salle"><em>Pigalle</em></span></br>
-			<span id="date">19/11/2012</span></br>
-			<span id="hdebut">08:00</span> / <span id="hfin">13:30</span></br>
-			Qui : <span id="qui">CATTEAU Bruno</span></br>
-			Organisateur : <span id="organisateur">POT Frédéric</span></br>
-			Téléphone : <span id="telqui">03 00 25 63 52</span></br>
-			Téléphone : <span id="telorg">09 54 00 39 64</span></br>
-			Disposition : <span id="disposition">Salle de cinéma</span></br>
-			<em>Nb participants : <span id="nbparticipants">1</span></em></br>
-			<span id="nbparticipants">1</span> participants</br>
-			<span id="nomparticipant">Gros Fred</span></br>
+		<div class="reservationSalle">
+			<span class="res" id="typeres0"></span> > <em><span class="res" id="salle0"></span></em></br>
+			<span class="horaire" id="date0"></span></br>
+			<span class="horaire" id="hdebut0"></span> / <span class="horaire" id="hfin0"></span></br>
+			Qui : <span id="qui0"></span></br>
+			Organisateur : <span id="organisateur0"></span></br>
+			Téléphone : <span id="telqui0"></span></br>
+			Téléphone : <span id="telorg0"></span></br>
+			Disposition : <span id="disposition0"></span></br>
+			<span class="npart">Nb participants : <span id="nbparticipants0"></span></span></br>
+			<span id="nbparticipants0"></span> participants</br>
+			<span id="nomparticipant0"></span></br>
 		</div>
 	
-		<div class="section">
-			<div class="reservation"><em>Salles de réunion</em> > <em>Lazare</em></div>
-			<div class="date-horaire">19/11/2012</br>08:15 / 13:15</div>
-			<div class="qui">Qui : DURAND Sylvain</div>
-			<div class="organisateur">Organisateur : MARI Pierre</div>
-			<div class="telephone">Téléphone : 01 03 05 07 09</div>
-			<div class="objet">Objet : Meeting</div>
-			<div class="equipement"><em>Equipement</em></div>
+		<div class="reservationSalle">
+			<span class="res" id="typeres1"></span> > <span class="res" id="salle1"></span></br>
+			<span class="horaire" id="date1"></span></br>
+			<span class="horaire" id="hdebut1"></span> / <span class="horaire" id="hfin1"></span></br>
+			Qui : <span id="qui1"></span></br>
+			Organisateur : <span id="organisateur1"></span></br>
+			Téléphone : <span id="telqui1"></span></br>
+			Objet : <span id="objet1"></span></br>
+			<span class="equipement">Equipement</span>
 			<ul>
-				<li>- Audioconférence oui</li>
+				<li>- <span id="equipement1"></span></li>
 			</ul>
-			<div class="alimentaire"><em>Alimentaire</em></div>
+			<span class="alimentaire">Alimentaire</span>
 			<ul>
-				<li>- Plateau repas 5</li>
-				<li>- Evian 5</li>
+				<li>- <span id="alimentaire10"></span></li>
+				<li>- <span id="alimentaire11"></span></li>
 			</ul>
 		</div>
 		
 		<script>
-		var JSONObject = {
-			"res":"Salles de réunion",
+		var reservations = [
+			{"res":"Salles de réunion",
 			"salle":"Pigalle",
 			"date":"19/11/2012",
 			"debut":"08:00",
@@ -59,19 +60,46 @@
 			"telorg":"09 54 00 39 64",
 			"disp":"Salle de cinéma",
 			"nbp":"1",
-			"nompar":"Gros Fred"};
-			document.getElementById("typeres").innerHTML=JSONObject.res
-			document.getElementById("salle").innerHTML=JSONObject.salle
-			document.getElementById("date").innerHTML=JSONObject.date
-			document.getElementById("hdebut").innerHTML=JSONObject.debut
-			document.getElementById("hfin").innerHTML=JSONObject.fin
-			document.getElementById("qui").innerHTML=JSONObject.qui
-			document.getElementById("organisateur").innerHTML=JSONObject.organisateur
-			document.getElementById("telqui").innerHTML=JSONObject.telqui
-			document.getElementById("telorg").innerHTML=JSONObject.telorg
-			document.getElementById("disposition").innerHTML=JSONObject.disp
-			document.getElementById("nbparticipants").innerHTML=JSONObject.nbp
-			document.getElementById("nomparticipant").innerHTML=JSONObject.nompar
+			"nompar":"Gros Fred"},
+
+			{"res":"Salles de réunion",
+			"salle":"Lazare",
+			"date":"19/11/2012",
+			"debut":"08:15",
+			"fin":"13:15",
+			"qui":"DURAND Sylvain",
+			"organisateur":"MARI Pierre",
+			"telqui":"01 03 05 07 09",
+			"objet":"Meeting",
+			"equipement":"Audioconférence oui",
+			"alimentaire0":"Plateau repas 5",
+			"alimentaire1":"Evian 5"},
+		];
+			document.getElementById("typeres0").innerHTML=reservations[0].res
+			document.getElementById("salle0").innerHTML=reservations[0].salle
+			document.getElementById("date0").innerHTML=reservations[0].date
+			document.getElementById("hdebut0").innerHTML=reservations[0].debut
+			document.getElementById("hfin0").innerHTML=reservations[0].fin
+			document.getElementById("qui0").innerHTML=reservations[0].qui
+			document.getElementById("organisateur0").innerHTML=reservations[0].organisateur
+			document.getElementById("telqui0").innerHTML=reservations[0].telqui
+			document.getElementById("telorg0").innerHTML=reservations[0].telorg
+			document.getElementById("disposition0").innerHTML=reservations[0].disp
+			document.getElementById("nbparticipants0").innerHTML=reservations[0].nbp
+			document.getElementById("nomparticipant0").innerHTML=reservations[0].nompar
+			
+			document.getElementById("typeres1").innerHTML=reservations[1].res
+			document.getElementById("salle1").innerHTML=reservations[1].salle
+			document.getElementById("date1").innerHTML=reservations[1].date
+			document.getElementById("hdebut1").innerHTML=reservations[1].debut
+			document.getElementById("hfin1").innerHTML=reservations[1].fin
+			document.getElementById("qui1").innerHTML=reservations[1].qui
+			document.getElementById("organisateur1").innerHTML=reservations[1].organisateur
+			document.getElementById("telqui1").innerHTML=reservations[1].telqui
+			document.getElementById("objet1").innerHTML=reservations[1].objet
+			document.getElementById("equipement1").innerHTML=reservations[1].equipement
+			document.getElementById("alimentaire10").innerHTML=reservations[1].alimentaire0
+			document.getElementById("alimentaire11").innerHTML=reservations[1].alimentaire1
 		</script>
 	
     </body>
