@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+
+<html>
+	
+	<head>
+        <link rel="stylesheet" href="style-json.css" />
+        <title>Maquette_impression-reservations</title>
+    </head>
+	
+	<header>
+		<div class="mois">Novembre</div>
+		<div class="jour">L 19</div>
+	</header>
+	
+    <body>
+	
+	<div id="reservationsList"></div>
+		
+		<script>
+		var reservations = [
+			{
+
+    "id": 2643,
+    "date": "2012-03-30T00:00:00",
+    "startDate": "2012-03-30T10:15:00",
+    "endDate": "2012-03-30T14:15:00",
+    "fields": [
+        {
+            "key": "Champ1",
+            "displayName": "Qui",
+            "value": "Guillaume Allain"
+        },
+        {
+            "key": "Champ2",
+            "displayName": "Coordonnées",
+            "value": "Guillaume Allain"
+        },
+        {
+            "key": "Champ3",
+            "displayName": "Organisateur ",
+            "value": "06 65 42 51 42"
+        },
+        {
+            "key": "Champ4",
+            "displayName": "Objet",
+            "value": ""
+        },
+        {
+            "key": "Champ5",
+            "displayName": "Nb de participants ",
+            "value": ""
+        },
+        {
+            "key": "Champ6",
+            "displayName": "Entité",
+            "value": ""
+        },
+        {
+            "key": "Champ7",
+            "displayName": "",
+            "value": ""
+        },
+        {
+            "key": "Champ8",
+            "displayName": "Type",
+            "value": ""
+        },
+        {
+            "key": "Champ9",
+            "displayName": "Commentaires",
+            "value": ""
+        }
+    ],
+    "status": 0,
+    "idGroup": 2643,
+    "visit": null,
+    "creationDate": "2012-03-30T00:00:00",
+    "owner": "gallain",
+    "creator": "gallain",
+    "lastUpdateDate": "2012-03-20T07:00:55",
+    "lastUpdateLogin": null,
+    "EID": "264358634190",
+    "resource": {
+        "id": 169,
+        "displayName": "Mercure",
+        "url": "api/v1/resources/169"
+    }
+
+},
+{
+
+    "id": 2644,
+    "date": "2012-04-05T00:00:00",
+    "startDate": "2012-04-05T08:00:00",
+    "endDate": "2012-04-05T19:00:00",
+    "fields": [
+        {
+            "key": "Champ1",
+            "displayName": "Qui",
+            "value": "NAGGAR Marc"
+        },
+        {
+            "key": "Champ2",
+            "displayName": "Coordonnées",
+            "value": "Roux Sylvain"
+        },
+        {
+            "key": "Champ3",
+            "displayName": "Organisateur ",
+            "value": "01 02 03 04 05"
+        },
+        {
+            "key": "Champ4",
+            "displayName": "Objet",
+            "value": "Point marketing"
+        },
+        {
+            "key": "Champ5",
+            "displayName": "Nb de participants ",
+            "value": "Cocktail"
+        },
+        {
+            "key": "Champ6",
+            "displayName": "Entité",
+            "value": "3"
+        },
+        {
+            "key": "Champ7",
+            "displayName": "",
+            "value": ""
+        },
+        {
+            "key": "Champ8",
+            "displayName": "Type",
+            "value": ""
+        },
+        {
+            "key": "Champ9",
+            "displayName": "Commentaires",
+            "value": ""
+        }
+    ],
+    "status": 0,
+    "idGroup": 2505,
+    "visit": null,
+    "creationDate": "2012-04-05T00:00:00",
+    "owner": "mnaggar",
+    "creator": "bcatteau",
+    "lastUpdateDate": "2012-03-20T07:00:55",
+    "lastUpdateLogin": null,
+    "EID": "250039331774",
+    "resource": {
+        "id": 158,
+        "displayName": "Orion",
+        "url": "api/v1/resources/158"
+    }
+
+},
+]
+
+	var newReservation = document.createElement('div');
+	
+	newReservation.className="reservationSalle";
+	
+	document.getElementById('reservationsList').appendChild(newReservation);
+	
+	var text = document.createTextNode("Test");
+	newReservation.appendChild(text);
+	
+	document.getElementById('reservationsList').innerHTML += 'test';
+
+		</script>
+	
+    </body>
+
+</html>

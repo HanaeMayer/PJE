@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+
+<html>
+	
+	<head>
+        <link rel="stylesheet" href="style-json.css" />
+        <title>Maquette_impression-reservations</title>
+    </head>
+	
+	<header>
+		<div class="mois">Novembre</div>
+		<div class="jour">L 19</div>
+	</header>
+	
+    <body>
+	
+		<div class="reservationSalle">
+			<span class="res" id="typeres0"></span> > <em><span class="res" id="salle0"></span></em></br>
+			<span class="horaire" id="date0"></span></br>
+			<span class="horaire" id="hdebut0"></span> / <span class="horaire" id="hfin0"></span></br>
+			Qui : <span id="qui0"></span></br>
+			Organisateur : <span id="organisateur0"></span></br>
+			Téléphone : <span id="telqui0"></span></br>
+		</div>
+	
+		<div class="reservationSalle">
+			<span class="res" id="typeres1"></span> > <span class="res" id="salle1"></span></br>
+			<span class="horaire" id="date1"></span></br>
+			<span class="horaire" id="hdebut1"></span> / <span class="horaire" id="hfin1"></span></br>
+			Qui : <span id="qui1"></span></br>
+			Organisateur : <span id="organisateur1"></span></br>
+			Téléphone : <span id="telqui1"></span></br>
+			Objet : <span id="objet1"></span></br>
+			Disposition : <span id="disposition1"></span></br>
+			<span class="npart">Nb participants : <span id="nbparticipants1"></span></span></br>
+		</div>
+		
+		<script>
+		var reservations = [
+			{
+
+    "id": 2643,
+    "date": "2012-03-30T00:00:00",
+    "startDate": "2012-03-30T10:15:00",
+    "endDate": "2012-03-30T14:15:00",
+    "fields": [
+        {
+            "key": "Champ1",
+            "displayName": "Qui",
+            "value": "Guillaume Allain"
+        },
+        {
+            "key": "Champ2",
+            "displayName": "Coordonnées",
+            "value": "Guillaume Allain"
+        },
+        {
+            "key": "Champ3",
+            "displayName": "Organisateur ",
+            "value": "06 65 42 51 42"
+        },
+        {
+            "key": "Champ4",
+            "displayName": "Objet",
+            "value": ""
+        },
+        {
+            "key": "Champ5",
+            "displayName": "Nb de participants ",
+            "value": ""
+        },
+        {
+            "key": "Champ6",
+            "displayName": "Entité",
+            "value": ""
+        },
+        {
+            "key": "Champ7",
+            "displayName": "",
+            "value": ""
+        },
+        {
+            "key": "Champ8",
+            "displayName": "Type",
+            "value": ""
+        },
+        {
+            "key": "Champ9",
+            "displayName": "Commentaires",
+            "value": ""
+        }
+    ],
+    "status": 0,
+    "idGroup": 2643,
+    "visit": null,
+    "creationDate": "2012-03-30T00:00:00",
+    "owner": "gallain",
+    "creator": "gallain",
+    "lastUpdateDate": "2012-03-20T07:00:55",
+    "lastUpdateLogin": null,
+    "EID": "264358634190",
+    "resource": {
+        "id": 169,
+        "displayName": "Mercure",
+        "url": "api/v1/resources/169"
+    }
+
+},
+{
+
+    "id": 2644,
+    "date": "2012-04-05T00:00:00",
+    "startDate": "2012-04-05T08:00:00",
+    "endDate": "2012-04-05T19:00:00",
+    "fields": [
+        {
+            "key": "Champ1",
+            "displayName": "Qui",
+            "value": "NAGGAR Marc"
+        },
+        {
+            "key": "Champ2",
+            "displayName": "Coordonnées",
+            "value": "Roux Sylvain"
+        },
+        {
+            "key": "Champ3",
+            "displayName": "Organisateur ",
+            "value": "01 02 03 04 05"
+        },
+        {
+            "key": "Champ4",
+            "displayName": "Objet",
+            "value": "Point marketing"
+        },
+        {
+            "key": "Champ5",
+            "displayName": "Nb de participants ",
+            "value": "Cocktail"
+        },
+        {
+            "key": "Champ6",
+            "displayName": "Entité",
+            "value": "3"
+        },
+        {
+            "key": "Champ7",
+            "displayName": "",
+            "value": ""
+        },
+        {
+            "key": "Champ8",
+            "displayName": "Type",
+            "value": ""
+        },
+        {
+            "key": "Champ9",
+            "displayName": "Commentaires",
+            "value": ""
+        }
+    ],
+    "status": 0,
+    "idGroup": 2505,
+    "visit": null,
+    "creationDate": "2012-04-05T00:00:00",
+    "owner": "mnaggar",
+    "creator": "bcatteau",
+    "lastUpdateDate": "2012-03-20T07:00:55",
+    "lastUpdateLogin": null,
+    "EID": "250039331774",
+    "resource": {
+        "id": 158,
+        "displayName": "Orion",
+        "url": "api/v1/resources/158"
+    }
+
+},
+]
+			document.getElementById("typeres0").innerHTML=reservations[0].resource.id
+			document.getElementById("salle0").innerHTML=reservations[0].resource.displayName
+			document.getElementById("date0").innerHTML=reservations[0].date
+			document.getElementById("hdebut0").innerHTML=reservations[0].startDate
+			document.getElementById("hfin0").innerHTML=reservations[0].endDate
+			document.getElementById("qui0").innerHTML=reservations[0].fields[0].value
+			document.getElementById("organisateur0").innerHTML=reservations[0].fields[1].value
+			document.getElementById("telqui0").innerHTML=reservations[0].fields[2].value
+			
+			document.getElementById("typeres1").innerHTML=reservations[1].resource.id
+			document.getElementById("salle1").innerHTML=reservations[1].resource.displayName
+			document.getElementById("date1").innerHTML=reservations[1].date
+			document.getElementById("hdebut1").innerHTML=reservations[1].startDate
+			document.getElementById("hfin1").innerHTML=reservations[1].endDate
+			document.getElementById("qui1").innerHTML=reservations[1].fields[0].value
+			document.getElementById("organisateur1").innerHTML=reservations[1].fields[1].value
+			document.getElementById("telqui1").innerHTML=reservations[1].fields[2].value
+			document.getElementById("objet1").innerHTML=reservations[1].fields[3].value
+			document.getElementById("disposition1").innerHTML=reservations[1].fields[4].value
+			document.getElementById("nbparticipants1").innerHTML=reservations[1].fields[5].value
+		</script>
+	
+    </body>
+
+</html>
