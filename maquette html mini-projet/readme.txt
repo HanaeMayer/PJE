@@ -43,9 +43,9 @@ Ce ficher sert à "décorer" notre page html. On y retrouve des balises et des cla
 le point indique que "mois" est une classe. On ne le met pas s'il s'agit d'une balise comme "ul". Ensuite, entre les accolades, on met les consignes attribuées aux contenu des balises ou de la classe. "font-size: x-large;" pour dire que la taille de caractères doit être extra-large, par exemple. L'étoile au début indique que ce qui suit dans les accolades sera attribué à l'ensemble du contenu de la page, c'est-à-dire que l'ensemble de la page sera en police Arial (et non pas, juste les titre).
 
 
-** ETAPE 2 : JSON :
-**************************
-**********************
+** ETAPE 2 : JSON créé pour l'occasion :
+****************************************
+*********************************
 
 On utilisera maquette-etape2.html. Encore une fois, si tout est clair à l'ouverture du fichier, vous pouvvez passer à la suite. Sinon ces tutoriels seront utiles :
 - http://www.w3schools.com/json/json_intro.asp
@@ -67,3 +67,14 @@ Le grand changement c'est la partie rajoutée à la fin, entre les balises <script
 * document.getElementById("typeres0").innerHTML=reservations[0].res
 
 Le zéro entre crochets derrière reservation est là car l'objet JSON est un tableau (ici à deux éléments dont les indices sont 0 et 1).
+
+
+** ETAPE 3 : JSON réel :
+**************************
+**********************
+
+
+
+** ETAPE 4 : JSON + jQuery:
+*****************************
+************************
