@@ -4,7 +4,7 @@
 	
 	<head>
         <link rel="stylesheet" href="style.css" />
-        <title>maquette-étape5</title>
+        <title>test</title>
 		<script type="text/javascript" src="jquery-1.8.3.min.js"></script>  <script src="http://code.jquery.com/jquery-latest.js"></script>
 	</head>
 	
@@ -29,13 +29,13 @@
 				items.push('<span class="horaire">'+json[key].startDate+'</span> / <span class="horaire">'+json[key].endDate+'</span></br>');
 				items.push('Qui : <span>'+json[key].fields[0].value+'</span></br>');
 				items.push('Organisateur : <span>'+json[key].fields[2].value+'</span></br>');
-				items.push('Téléphone : <span>'+json[key].fields[1].value+'</span></br>');
+				items.push('TÃ©lÃ©phone : <span>'+json[key].fields[1].value+'</span></br>');
 				if(json[key].fields[3].value){
 					items.push('Objet : <span>'+json[key].fields[3].value+'</span></br>');}
 				if(json[key].fields[5].value){
 					items.push('Disposition : <span>'+json[key].fields[5].value+'</span></br>');}
 				if(json[key].fields[8].value){
-					items.push('Entité : <span>'+json[key].fields[8].value+'</span></br>');}
+					items.push('EntitÃ© : <span>'+json[key].fields[8].value+'</span></br>');}
 				if(json[key].fields[7].value){
 					items.push('<span>'+json[key].fields[7].value+'</span></br>');}
 				if(json[key].fields[8].value){

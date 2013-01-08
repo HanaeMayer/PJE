@@ -1,15 +1,96 @@
-[{"id":8,"date":"2012-04-27T00:00:00","startDate":"2012-04-27T11:00:00","endDate":"2012-04-27T12:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"Naggar
-Marc"},{"key":"Champ2","displayName":"Coordonnées","value":"1234"},{"key":"Champ3","displayName":"Organisateur
-","value":"Naggar
-Marc"},{"key":"Champ4","displayName":"Objet","value":""},{"key":"Champ5","displayName":"Nb
-de participants
-","value":"2"},{"key":"Champ6","displayName":"","value":"Amphithéâtre"},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":0,"idGroup":8,"visit":null,"creationDate":"2012-04-18T12:07:56","owner":"mnaggar","creator":"mnaggar","lastUpdateDate":"2012-04-18T12:07:56","lastUpdateLogin":null,"EID":"743676100","resource":{"id":655,"displayName":"Cafeteria","url":"api/v1/resources/655"}},{"id":12,"date":"2012-04-18T00:00:00","startDate":"2012-04-18T15:00:00","endDate":"2012-04-18T17:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"adminAPI
-adminAPI"},{"key":"Champ2","displayName":"Coordonnées","value":""},{"key":"Champ3","displayName":"Organisateur
-","value":"adminAPI
-adminAPI"},{"key":"Champ4","displayName":"Objet","value":""},{"key":"Champ5","displayName":"Nb
-de participants
-","value":"2"},{"key":"Champ6","displayName":"","value":"Conférence de
-presse"},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":0,"idGroup":12,"visit":null,"creationDate":"2012-04-18T12:25:55","owner":"adminapi","creator":"adminapi","lastUpdateDate":"2012-04-18T12:26:25","lastUpdateLogin":null,"EID":"1244756303","resource":{"id":655,"displayName":"Cafeteria","url":"api/v1/resources/655"}},{"id":13,"date":"2012-04-18T00:00:00","startDate":"2012-04-18T12:00:00","endDate":"2012-04-18T13:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"Ecran
+[
+{"id":8,
+"date":"2012-04-27T00:00:00",
+"startDate":"2012-04-27T11:00:00",
+"endDate":"2012-04-27T12:30:00",
+"fields":[
+	{"key":"Champ1",
+	"displayName":"Qui",
+	"value":"Naggar Marc"},
+	{"key":"Champ2",
+	"displayName":"Coordonnées",
+	"value":"1234"},
+	{"key":"Champ3",
+	"displayName":"Organisateur",
+	"value":"Naggar Marc"},
+	{"key":"Champ4",
+	"displayName":"Objet",
+	"value":""},
+	{"key":"Champ5",
+	"displayName":"Nb de participants",
+	"value":"2"},
+	{"key":"Champ6",
+	"displayName":"",
+	"value":"Amphithéâtre"},
+	{"key":"Champ7",
+	"displayName":"Commentaire",
+	"value":""},
+	{"key":"Champ8",
+	"displayName":"","value":""},
+	{"key":"Champ9",
+	"displayName":"",
+	"value":""}],
+"status":0,
+"idGroup":8,
+"visit":null,
+"creationDate":"2012-04-18T12:07:56",
+"owner":"mnaggar",
+"creator":"mnaggar",
+"lastUpdateDate":"2012-04-18T12:07:56",
+"lastUpdateLogin":null,
+"EID":"743676100",
+"resource":
+	{"id":655,
+	"displayName":"Cafeteria",
+	"url":"api/v1/resources/655"}},
+		
+{"id":12,
+"date":"2012-04-18T00:00:00",
+"startDate":"2012-04-18T15:00:00",
+"endDate":"2012-04-18T17:00:00",
+"fields":[
+	{"key":"Champ1",
+	"displayName":"Qui",
+	"value":"adminAPI adminAPI"},
+	{"key":"Champ2",
+	"displayName":"Coordonnées",
+	"value":""},
+	{"key":"Champ3",
+	"displayName":"Organisateur",
+	"value":"adminAPI adminAPI"},
+	{"key":"Champ4",
+	"displayName":"Objet",
+	"value":""},
+	{"key":"Champ5",
+	"displayName":"Nb de participants",
+	"value":"2"},
+	{"key":"Champ6",
+	"displayName":"",
+	"value":"Conférence de presse"},
+	{"key":"Champ7",
+	"displayName":"Commentaire",
+	"value":""},
+	{"key":"Champ8",
+	"displayName":"",
+	"value":""},
+	{"key":"Champ9",
+	"displayName":"",
+	"value":""}],
+"status":0,
+"idGroup":12,
+"visit":null,
+"creationDate":"2012-04-18T12:25:55",
+"owner":"adminapi",
+"creator":"adminapi",
+"lastUpdateDate":"2012-04-18T12:26:25",
+"lastUpdateLogin":null,
+"EID":"1244756303",
+"resource":{
+	"id":655,
+	"displayName":"Cafeteria",
+	"url":"api/v1/resources/655"}},
+
+{"id":13,"date":"2012-04-18T00:00:00","startDate":"2012-04-18T12:00:00","endDate":"2012-04-18T13:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"Ecran
 tactile"},{"key":"Champ2","displayName":"Coordonnées","value":""},{"key":"Champ3","displayName":"Organisateur
 ","value":""},{"key":"Champ4","displayName":"Objet","value":"Réservation
 par écran tactile"},{"key":"Champ5","displayName":"Nb de participants

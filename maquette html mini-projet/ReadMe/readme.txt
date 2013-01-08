@@ -78,3 +78,8 @@ Le zéro entre crochets derrière reservation est là car l'objet JSON est un table
 ** ETAPE 4 : JSON + jQuery:
 *****************************
 ************************
+___________________________________________________
+Sources utiles :
+
+http://stackoverflow.com/questions/3030321/jquery-each-loop-with-json-array
+http://stackoverflow.com/questions/6298599/jquery-each-json-array-object-iteration
