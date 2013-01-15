@@ -1434,7 +1434,7 @@ Franck"},{"key":"Champ4","displayName":"Objet","value":"Travaux"},{"key":"Champ5
 de participants
 ","value":"2"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":"Installation
 de la trappe
-d'acces."},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":409,"visit":null,"creationDate":"2012-05-22T18:21:58","owner":"franck.chateau","creator":"franck.chateau","lastUpdateDate":"2012-05-22T18:21:58","lastUpdateLogin":null,"EID":"40966118309","resource":{"id":158,"displayName":"Hermione","url":"api/v1/resources/158"}},{"id":410,"date":"2012-05-23T00:00:00","startDate":"2012-05-23T10:00:00","endDate":"2012-05-23T11:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"BARBAIZE
+d acces."},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":409,"visit":null,"creationDate":"2012-05-22T18:21:58","owner":"franck.chateau","creator":"franck.chateau","lastUpdateDate":"2012-05-22T18:21:58","lastUpdateLogin":null,"EID":"40966118309","resource":{"id":158,"displayName":"Hermione","url":"api/v1/resources/158"}},{"id":410,"date":"2012-05-23T00:00:00","startDate":"2012-05-23T10:00:00","endDate":"2012-05-23T11:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"BARBAIZE
 Anthony"},{"key":"Champ2","displayName":"Coordonnées","value":"5424"},{"key":"Champ3","displayName":"Organisateur
 ","value":"BARBAIZE
 Anthony"},{"key":"Champ4","displayName":"Objet","value":""},{"key":"Champ5","displayName":"Nb
@@ -3260,7 +3260,7 @@ Barbara"},{"key":"Champ2","displayName":"Coordonnées","value":"5614"},{"key":"C
 Barbara"},{"key":"Champ4","displayName":"Objet","value":"RENAULT"},{"key":"Champ5","displayName":"Nb
 de participants
 ","value":"5"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":"réunion
-jusqu'à
+jusqu à
 15h"},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":1010,"visit":null,"creationDate":"2012-06-18T11:33:26","owner":"barbara.fleury","creator":"barbara.fleury","lastUpdateDate":"2012-06-18T11:33:26","lastUpdateLogin":null,"EID":"101041606467","resource":{"id":169,"displayName":"Cutty
 Sark","url":"api/v1/resources/169"}},{"id":1011,"date":"2012-06-18T00:00:00","startDate":"2012-06-18T14:00:00","endDate":"2012-06-18T15:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"ILOUS
 Delphine"},{"key":"Champ2","displayName":"Coordonnées","value":"5548"},{"key":"Champ3","displayName":"Organisateur
@@ -3605,7 +3605,7 @@ facture
 rejets"},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":1097,"visit":null,"creationDate":"2012-06-21T17:05:27","owner":"winoc.coppens","creator":"winoc.coppens","lastUpdateDate":"2012-06-21T17:05:27","lastUpdateLogin":null,"EID":"109761527259","resource":{"id":655,"displayName":"Cafeteria","url":"api/v1/resources/655"}},{"id":1099,"date":"2012-06-25T00:00:00","startDate":"2012-06-25T09:30:00","endDate":"2012-06-25T11:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"KESLER
 Florence"},{"key":"Champ2","displayName":"Coordonnées","value":"5661"},{"key":"Champ3","displayName":"Organisateur
 ","value":"KESLER
-Florence"},{"key":"Champ4","displayName":"Objet","value":"Com'Up"},{"key":"Champ5","displayName":"Nb
+Florence"},{"key":"Champ4","displayName":"Objet","value":"Com Up"},{"key":"Champ5","displayName":"Nb
 de participants
 ","value":"10"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":1099,"visit":null,"creationDate":"2012-06-21T18:54:14","owner":"florence.kesler","creator":"florence.kesler","lastUpdateDate":"2012-06-21T18:54:14","lastUpdateLogin":null,"EID":"109968054992","resource":{"id":155,"displayName":"Penduick","url":"api/v1/resources/155"}},{"id":1102,"date":"2012-07-11T00:00:00","startDate":"2012-07-11T13:00:00","endDate":"2012-07-11T14:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"RATINAUD
 marie"},{"key":"Champ2","displayName":"Coordonnées","value":"5535"},{"key":"Champ3","displayName":"Organisateur
@@ -5335,7 +5335,7 @@ Winoc"},{"key":"Champ4","displayName":"Objet","value":"OmniBrief"},{"key":"Champ
 de participants
 ","value":"5"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":"Débrief
 apres qq jours
-d'utilisation"},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":1314,"visit":null,"creationDate":"2012-07-03T09:53:02","owner":"winoc.coppens","creator":"winoc.coppens","lastUpdateDate":"2012-07-03T09:53:02","lastUpdateLogin":null,"EID":"131435583653","resource":{"id":154,"displayName":"Bounty","url":"api/v1/resources/154"}},{"id":1356,"date":"2012-07-05T00:00:00","startDate":"2012-07-05T14:00:00","endDate":"2012-07-05T17:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"SKOURAS
+d utilisation"},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":1314,"visit":null,"creationDate":"2012-07-03T09:53:02","owner":"winoc.coppens","creator":"winoc.coppens","lastUpdateDate":"2012-07-03T09:53:02","lastUpdateLogin":null,"EID":"131435583653","resource":{"id":154,"displayName":"Bounty","url":"api/v1/resources/154"}},{"id":1356,"date":"2012-07-05T00:00:00","startDate":"2012-07-05T14:00:00","endDate":"2012-07-05T17:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"SKOURAS
 Nicolas"},{"key":"Champ2","displayName":"Coordonnées","value":"5519"},{"key":"Champ3","displayName":"Organisateur
 ","value":"SKOURAS
 Nicolas"},{"key":"Champ4","displayName":"Objet","value":"beIN
@@ -5848,7 +5848,7 @@ Laurie"},{"key":"Champ4","displayName":"","value":""},{"key":"Champ5","displayNa
 Yvan"},{"key":"Champ2","displayName":"Coordonnées","value":"5736"},{"key":"Champ3","displayName":"Organisateur
 ","value":"RYBAK
 Yvan"},{"key":"Champ4","displayName":"","value":"Formation SEA à
-l''équipe
+l  équipe
 DISPLAY"},{"key":"Champ5","displayName":"","value":"17"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":1543,"visit":null,"creationDate":"2012-07-10T10:02:09","owner":"yvan.rybak","creator":"yvan.rybak","lastUpdateDate":"2012-07-10T10:02:09","lastUpdateLogin":null,"EID":"15433597111","resource":{"id":171,"displayName":"VideoProj
 1","url":"api/v1/resources/171"}},{"id":1546,"date":"2012-07-10T00:00:00","startDate":"2012-07-10T15:00:00","endDate":"2012-07-10T16:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"DAVID
 Guillaume"},{"key":"Champ2","displayName":"Coordonnées","value":"5763"},{"key":"Champ3","displayName":"Organisateur
@@ -5983,7 +5983,7 @@ McDo"},{"key":"Champ5","displayName":"Nb de participants
 Clementine"},{"key":"Champ2","displayName":"Coordonnées","value":"5314"},{"key":"Champ3","displayName":"Organisateur
 ","value":"GARNIER
 Clementine"},{"key":"Champ4","displayName":"Objet","value":"Réunion HP
-Impressions d'Entrepreneurs"},{"key":"Champ5","displayName":"Nb de
+Impressions d Entrepreneurs"},{"key":"Champ5","displayName":"Nb de
 participants
 ","value":"10"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":1591,"visit":null,"creationDate":"2012-07-12T10:59:27","owner":"clementine.garnier","creator":"clementine.garnier","lastUpdateDate":"2012-07-12T10:59:27","lastUpdateLogin":null,"EID":"159139567637","resource":{"id":155,"displayName":"Penduick","url":"api/v1/resources/155"}},{"id":1593,"date":"2012-07-12T00:00:00","startDate":"2012-07-12T14:30:00","endDate":"2012-07-12T18:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"SOUILLAC
 Bénédicte"},{"key":"Champ2","displayName":"Coordonnées","value":"5777"},{"key":"Champ3","displayName":"Organisateur
@@ -6376,7 +6376,7 @@ de participants
 Pearl","url":"api/v1/resources/654"}},{"id":1707,"date":"2012-07-20T00:00:00","startDate":"2012-07-20T09:30:00","endDate":"2012-07-20T18:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"SANTONI
 Patricia"},{"key":"Champ2","displayName":"Coordonnées","value":"5459"},{"key":"Champ3","displayName":"Organisateur
 ","value":"SANTONI
-Patricia"},{"key":"Champ4","displayName":"Objet","value":"Lewi's"},{"key":"Champ5","displayName":"Nb
+Patricia"},{"key":"Champ4","displayName":"Objet","value":"Lewi s"},{"key":"Champ5","displayName":"Nb
 de participants
 ","value":"8"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":1707,"visit":null,"creationDate":"2012-07-19T10:06:18","owner":"patricia.santoni","creator":"patricia.santoni","lastUpdateDate":"2012-07-19T10:06:18","lastUpdateLogin":null,"EID":"170736378921","resource":{"id":654,"displayName":"Black
 Pearl","url":"api/v1/resources/654"}},{"id":1542,"date":"2012-07-10T00:00:00","startDate":"2012-07-10T10:00:00","endDate":"2012-07-10T12:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"BARBAIZE
@@ -6389,7 +6389,7 @@ Pearl","url":"api/v1/resources/654"}},{"id":1543,"date":"2012-08-30T00:00:00","s
 Yvan"},{"key":"Champ2","displayName":"Coordonnées","value":"5736"},{"key":"Champ3","displayName":"Organisateur
 ","value":"RYBAK
 Yvan"},{"key":"Champ4","displayName":"Objet","value":"Formation SEA à
-l'équipe DISPLAY"},{"key":"Champ5","displayName":"Nb de participants
+l équipe DISPLAY"},{"key":"Champ5","displayName":"Nb de participants
 ","value":"17"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":1543,"visit":null,"creationDate":"2012-07-10T09:59:30","owner":"yvan.rybak","creator":"yvan.rybak","lastUpdateDate":"2012-07-10T10:02:09","lastUpdateLogin":null,"EID":"15433597111","resource":{"id":155,"displayName":"Penduick","url":"api/v1/resources/155"}},{"id":1571,"date":"2012-07-11T00:00:00","startDate":"2012-07-11T16:00:00","endDate":"2012-07-11T19:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"LEGRAND
 Carole"},{"key":"Champ2","displayName":"Coordonnées","value":"5310"},{"key":"Champ3","displayName":"Organisateur
 ","value":"LEGRAND
@@ -6418,7 +6418,7 @@ DDB"},{"key":"Champ5","displayName":"Nb de participants
 Pearl","url":"api/v1/resources/654"}},{"id":1661,"date":"2012-07-31T00:00:00","startDate":"2012-07-31T17:00:00","endDate":"2012-07-31T19:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"LACROIX
 Nolwenn"},{"key":"Champ2","displayName":"Coordonnées","value":"5544"},{"key":"Champ3","displayName":"Organisateur
 ","value":"LACROIX
-Nolwenn"},{"key":"Champ4","displayName":"","value":"McDonald's"},{"key":"Champ5","displayName":"","value":"10"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":1661,"visit":null,"creationDate":"2012-07-17T11:41:14","owner":"nolwenn.lacroix","creator":"nolwenn.lacroix","lastUpdateDate":"2012-07-17T11:41:14","lastUpdateLogin":null,"EID":"166142074309","resource":{"id":156,"displayName":"Belem","url":"api/v1/resources/156"}},{"id":1682,"date":"2012-07-18T00:00:00","startDate":"2012-07-18T11:30:00","endDate":"2012-07-18T12:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"BERNARD
+Nolwenn"},{"key":"Champ4","displayName":"","value":"McDonald s"},{"key":"Champ5","displayName":"","value":"10"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":1661,"visit":null,"creationDate":"2012-07-17T11:41:14","owner":"nolwenn.lacroix","creator":"nolwenn.lacroix","lastUpdateDate":"2012-07-17T11:41:14","lastUpdateLogin":null,"EID":"166142074309","resource":{"id":156,"displayName":"Belem","url":"api/v1/resources/156"}},{"id":1682,"date":"2012-07-18T00:00:00","startDate":"2012-07-18T11:30:00","endDate":"2012-07-18T12:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"BERNARD
 Stephane"},{"key":"Champ2","displayName":"Coordonnées","value":"5475"},{"key":"Champ3","displayName":"Organisateur
 ","value":"BERNARD
 Stephane"},{"key":"Champ4","displayName":"Objet","value":"RDV LE BON
@@ -8079,7 +8079,7 @@ Camille"},{"key":"Champ2","displayName":"Coordonnées","value":"5383"},{"key":"C
 Camille"},{"key":"Champ4","displayName":"Objet","value":"Réunion La
 Poste 20 Minutes GAD"},{"key":"Champ5","displayName":"Nb de participants
 ","value":"10"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":"Réunion
-de prod vidéo<br>La Poste - Salon de l'Auto.
+de prod vidéo<br>La Poste - Salon de l Auto.
 "},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":2129,"visit":null,"creationDate":"2012-08-23T12:23:29","owner":"camille.leclerc","creator":"camille.leclerc","lastUpdateDate":"2012-08-23T12:23:29","lastUpdateLogin":null,"EID":"212944610371","resource":{"id":169,"displayName":"Cutty
 Sark","url":"api/v1/resources/169"}},{"id":2130,"date":"2012-08-24T00:00:00","startDate":"2012-08-24T11:00:00","endDate":"2012-08-24T12:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"BORWIN
 Beatrice"},{"key":"Champ2","displayName":"Coordonnées","value":"5386"},{"key":"Champ3","displayName":"Organisateur
@@ -8795,13 +8795,13 @@ GEOXIA"},{"key":"Champ5","displayName":"Nb de participants
 Aurelie"},{"key":"Champ2","displayName":"Coordonnées","value":"5356"},{"key":"Champ3","displayName":"Organisateur
 ","value":"Cayla
 Aurelie"},{"key":"Champ4","displayName":"","value":""},{"key":"Champ5","displayName":"","value":""},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":"pour
-l'atelier
+l atelier
 Géoxia"},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":2249,"visit":null,"creationDate":"2012-08-29T15:54:13","owner":"aurelie.cayla","creator":"aurelie.cayla","lastUpdateDate":"2012-08-29T15:54:13","lastUpdateLogin":null,"EID":"224957253378","resource":{"id":171,"displayName":"VideoProj
 1","url":"api/v1/resources/171"}},{"id":2250,"date":"2012-09-07T00:00:00","startDate":"2012-09-07T14:00:00","endDate":"2012-09-07T17:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"Cayla
 Aurelie"},{"key":"Champ2","displayName":"Coordonnées","value":"5356"},{"key":"Champ3","displayName":"Organisateur
 ","value":"Cayla
 Aurelie"},{"key":"Champ4","displayName":"","value":""},{"key":"Champ5","displayName":"","value":""},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":"pour
-l'atelier
+l atelier
 Géoxia"},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":2250,"visit":null,"creationDate":"2012-08-29T15:54:25","owner":"aurelie.cayla","creator":"aurelie.cayla","lastUpdateDate":"2012-08-29T15:54:25","lastUpdateLogin":null,"EID":"225057265269","resource":{"id":669,"displayName":"Laptop
 1","url":"api/v1/resources/669"}},{"id":2251,"date":"2012-08-30T00:00:00","startDate":"2012-08-30T10:00:00","endDate":"2012-08-30T13:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"Tanguy
 Justine"},{"key":"Champ2","displayName":"Coordonnées","value":"5461"},{"key":"Champ3","displayName":"Organisateur
@@ -9546,7 +9546,7 @@ hk"},{"key":"Champ5","displayName":"Nb de participants
 Cindy"},{"key":"Champ2","displayName":"Coordonnées","value":"5403"},{"key":"Champ3","displayName":"Organisateur
 ","value":"HEISER
 Cindy"},{"key":"Champ4","displayName":"Objet","value":"Apero/Lunch de la
-regie du Groupe L'express"},{"key":"Champ5","displayName":"Nb de
+regie du Groupe L express"},{"key":"Champ5","displayName":"Nb de
 participants
 ","value":"20"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":2498,"visit":null,"creationDate":"2012-09-06T13:51:34","owner":"cindy.heiser","creator":"cindy.heiser","lastUpdateDate":"2012-10-09T12:45:07","lastUpdateLogin":null,"EID":"249849895210","resource":{"id":655,"displayName":"Cafeteria","url":"api/v1/resources/655"}},{"id":2505,"date":"2012-11-08T00:00:00","startDate":"2012-11-08T09:30:00","endDate":"2012-11-08T12:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"HEISER
 Cindy"},{"key":"Champ2","displayName":"Coordonnées","value":"5403"},{"key":"Champ3","displayName":"Organisateur
@@ -11360,7 +11360,7 @@ Maria","url":"api/v1/resources/157"}},{"id":2923,"date":"2012-09-25T00:00:00","s
 Virginie"},{"key":"Champ2","displayName":"Coordonnées","value":"5341"},{"key":"Champ3","displayName":"Organisateur
 ","value":"Feramus
 Virginie"},{"key":"Champ4","displayName":"Objet","value":"Mc
-Donald's"},{"key":"Champ5","displayName":"Nb de participants
+Donald s"},{"key":"Champ5","displayName":"Nb de participants
 ","value":"4"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":2923,"visit":null,"creationDate":"2012-09-24T17:50:00","owner":"virginie.feramus","creator":"virginie.feramus","lastUpdateDate":"2012-09-24T17:50:00","lastUpdateLogin":null,"EID":"292364200587","resource":{"id":154,"displayName":"Bounty","url":"api/v1/resources/154"}},{"id":2924,"date":"2012-09-25T00:00:00","startDate":"2012-09-25T11:30:00","endDate":"2012-09-25T13:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"SANTONI
 Patricia"},{"key":"Champ2","displayName":"Coordonnées","value":"5459"},{"key":"Champ3","displayName":"Organisateur
 ","value":"SANTONI
@@ -12194,7 +12194,7 @@ Sophie"},{"key":"Champ4","displayName":"Objet","value":""},{"key":"Champ5","disp
 de participants
 ","value":"8"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":"Reunion
 La
-Poste/L'Equipe"},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3081,"visit":null,"creationDate":"2012-10-01T17:34:00","owner":"sophie.achio","creator":"sophie.achio","lastUpdateDate":"2012-10-01T17:42:59","lastUpdateLogin":null,"EID":"308163240881","resource":{"id":654,"displayName":"Black
+Poste/L Equipe"},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3081,"visit":null,"creationDate":"2012-10-01T17:34:00","owner":"sophie.achio","creator":"sophie.achio","lastUpdateDate":"2012-10-01T17:42:59","lastUpdateLogin":null,"EID":"308163240881","resource":{"id":654,"displayName":"Black
 Pearl","url":"api/v1/resources/654"}},{"id":3090,"date":"2012-10-04T00:00:00","startDate":"2012-10-04T11:00:00","endDate":"2012-10-04T12:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"MIQUELES-GUSTAFSSON
 Carla"},{"key":"Champ2","displayName":"Coordonnées","value":"5708"},{"key":"Champ3","displayName":"Organisateur
 ","value":"MIQUELES-GUSTAFSSON
@@ -13717,7 +13717,7 @@ de participants
 ","value":"17"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3574,"visit":null,"creationDate":"2012-10-18T09:52:37","owner":"marine.cannone","creator":"marine.cannone","lastUpdateDate":"2012-10-18T09:52:37","lastUpdateLogin":null,"EID":"357435558608","resource":{"id":155,"displayName":"Penduick","url":"api/v1/resources/155"}},{"id":3576,"date":"2012-11-19T00:00:00","startDate":"2012-11-19T10:30:00","endDate":"2012-11-19T12:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"HEISER
 Cindy"},{"key":"Champ2","displayName":"Coordonnées","value":"5403"},{"key":"Champ3","displayName":"Organisateur
 ","value":"HEISER
-Cindy"},{"key":"Champ4","displayName":"Objet","value":"Plénière l'Equipe
+Cindy"},{"key":"Champ4","displayName":"Objet","value":"Plénière l Equipe
 HD"},{"key":"Champ5","displayName":"Nb de participants
 ","value":"15"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3576,"visit":null,"creationDate":"2012-10-18T10:36:07","owner":"cindy.heiser","creator":"cindy.heiser","lastUpdateDate":"2012-10-18T10:36:07","lastUpdateLogin":null,"EID":"357638167873","resource":{"id":655,"displayName":"Cafeteria","url":"api/v1/resources/655"}},{"id":3582,"date":"2012-11-08T00:00:00","startDate":"2012-11-08T10:00:00","endDate":"2012-11-08T11:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"JENTET
 Charles"},{"key":"Champ2","displayName":"Coordonnées","value":"5474"},{"key":"Champ3","displayName":"Organisateur
@@ -14727,7 +14727,7 @@ Marine"},{"key":"Champ4","displayName":"Objet","value":"Reunion Melty
 pour Mc Do"},{"key":"Champ5","displayName":"Nb de participants
 ","value":"6"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":"Réunion
 pour Marine Birolleau - Melty pour Mc
-Donald's"},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3783,"visit":null,"creationDate":"2012-10-23T17:04:41","owner":"marine.birolleau","creator":"camille.leclerc","lastUpdateDate":"2012-10-23T17:04:41","lastUpdateLogin":null,"EID":"378261481380","resource":{"id":170,"displayName":"FUSE","url":"api/v1/resources/170"}},{"id":3784,"date":"2012-10-24T00:00:00","startDate":"2012-10-24T12:00:00","endDate":"2012-10-24T13:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"Mameri
+Donald s"},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3783,"visit":null,"creationDate":"2012-10-23T17:04:41","owner":"marine.birolleau","creator":"camille.leclerc","lastUpdateDate":"2012-10-23T17:04:41","lastUpdateLogin":null,"EID":"378261481380","resource":{"id":170,"displayName":"FUSE","url":"api/v1/resources/170"}},{"id":3784,"date":"2012-10-24T00:00:00","startDate":"2012-10-24T12:00:00","endDate":"2012-10-24T13:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"Mameri
 Sarah"},{"key":"Champ2","displayName":"Coordonnées","value":"5743"},{"key":"Champ3","displayName":"Organisateur
 ","value":"Mameri Sarah"},{"key":"Champ4","displayName":"","value":"HP
 "},{"key":"Champ5","displayName":"","value":"4"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3784,"visit":null,"creationDate":"2012-10-23T17:33:36","owner":"sarah.mameri","creator":"sarah.mameri","lastUpdateDate":"2012-10-23T17:33:36","lastUpdateLogin":null,"EID":"378463217549","resource":{"id":156,"displayName":"Belem","url":"api/v1/resources/156"}},{"id":3790,"date":"2012-10-24T00:00:00","startDate":"2012-10-24T10:00:00","endDate":"2012-10-24T11:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"Marrec
@@ -15029,7 +15029,7 @@ up"},{"key":"Champ5","displayName":"","value":"5"},{"key":"Champ6","displayName"
 Florence"},{"key":"Champ2","displayName":"Coordonnées","value":"5661"},{"key":"Champ3","displayName":"Organisateur
 ","value":"KESLER
 Florence"},{"key":"Champ4","displayName":"","value":"pour HB et
-Com'up"},{"key":"Champ5","displayName":"","value":"9"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3862,"visit":null,"creationDate":"2012-10-25T19:00:52","owner":"florence.kesler","creator":"florence.kesler","lastUpdateDate":"2012-10-25T19:00:52","lastUpdateLogin":null,"EID":"386268452282","resource":{"id":156,"displayName":"Belem","url":"api/v1/resources/156"}},{"id":3863,"date":"2012-10-26T00:00:00","startDate":"2012-10-26T10:00:00","endDate":"2012-10-26T15:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"CAIXEIRO
+Com up"},{"key":"Champ5","displayName":"","value":"9"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3862,"visit":null,"creationDate":"2012-10-25T19:00:52","owner":"florence.kesler","creator":"florence.kesler","lastUpdateDate":"2012-10-25T19:00:52","lastUpdateLogin":null,"EID":"386268452282","resource":{"id":156,"displayName":"Belem","url":"api/v1/resources/156"}},{"id":3863,"date":"2012-10-26T00:00:00","startDate":"2012-10-26T10:00:00","endDate":"2012-10-26T15:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"CAIXEIRO
 Maud"},{"key":"Champ2","displayName":"Coordonnées","value":"5642"},{"key":"Champ3","displayName":"Organisateur
 ","value":"CAIXEIRO
 Maud"},{"key":"Champ4","displayName":"Objet","value":""},{"key":"Champ5","displayName":"Nb
@@ -15401,9 +15401,9 @@ Jean-Baptiste"},{"key":"Champ4","displayName":"","value":""},{"key":"Champ5","di
 4","url":"api/v1/resources/661"}},{"id":3920,"date":"2012-11-26T00:00:00","startDate":"2012-11-26T14:00:00","endDate":"2012-11-26T17:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"PERISSEL
 Jerome"},{"key":"Champ2","displayName":"Coordonnées","value":"5798"},{"key":"Champ3","displayName":"Organisateur
 ","value":"PERISSEL
-Jerome"},{"key":"Champ4","displayName":"","value":"Proposition 'Joint
-Business Plan' 2013
-McDonald's/Google"},{"key":"Champ5","displayName":"","value":"10"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3920,"visit":null,"creationDate":"2012-10-30T11:13:46","owner":"jerome.perissel","creator":"jerome.perissel","lastUpdateDate":"2012-10-30T11:14:38","lastUpdateLogin":null,"EID":"392040426888","resource":{"id":156,"displayName":"Belem","url":"api/v1/resources/156"}},{"id":3921,"date":"2012-12-06T00:00:00","startDate":"2012-12-06T09:00:00","endDate":"2012-12-06T18:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"Minasyan
+Jerome"},{"key":"Champ4","displayName":"","value":"Proposition  Joint
+Business Plan  2013
+McDonald s/Google"},{"key":"Champ5","displayName":"","value":"10"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3920,"visit":null,"creationDate":"2012-10-30T11:13:46","owner":"jerome.perissel","creator":"jerome.perissel","lastUpdateDate":"2012-10-30T11:14:38","lastUpdateLogin":null,"EID":"392040426888","resource":{"id":156,"displayName":"Belem","url":"api/v1/resources/156"}},{"id":3921,"date":"2012-12-06T00:00:00","startDate":"2012-12-06T09:00:00","endDate":"2012-12-06T18:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"Minasyan
 Nonna"},{"key":"Champ2","displayName":"Coordonnées","value":"5662"},{"key":"Champ3","displayName":"Organisateur
 ","value":"Minasyan
 Nonna"},{"key":"Champ4","displayName":"","value":""},{"key":"Champ5","displayName":"","value":"15"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3921,"visit":null,"creationDate":"2012-10-30T11:36:23","owner":"nonna.minasyan","creator":"nonna.minasyan","lastUpdateDate":"2012-10-30T11:36:23","lastUpdateLogin":null,"EID":"392141783337","resource":{"id":156,"displayName":"Belem","url":"api/v1/resources/156"}},{"id":3922,"date":"2012-12-07T00:00:00","startDate":"2012-12-07T09:00:00","endDate":"2012-12-07T18:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"Minasyan
@@ -15459,7 +15459,7 @@ Elodie"},{"key":"Champ4","displayName":"","value":""},{"key":"Champ5","displayNa
 2","url":"api/v1/resources/666"}},{"id":3918,"date":"2012-11-06T00:00:00","startDate":"2012-11-06T15:30:00","endDate":"2012-11-06T18:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"CORMIER
 Gisèle"},{"key":"Champ2","displayName":"Coordonnées","value":"5558"},{"key":"Champ3","displayName":"Organisateur
 ","value":"CORMIER
-Gisèle"},{"key":"Champ4","displayName":"","value":"Levi's Brief local
+Gisèle"},{"key":"Champ4","displayName":"","value":"Levi s Brief local
 SS2013"},{"key":"Champ5","displayName":"","value":"5"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":3918,"visit":null,"creationDate":"2012-10-30T10:45:21","owner":"gisele.cormier","creator":"gisele.cormier","lastUpdateDate":"2012-10-30T10:45:21","lastUpdateLogin":null,"EID":"391838722652","resource":{"id":156,"displayName":"Belem","url":"api/v1/resources/156"}},{"id":3927,"date":"2012-11-09T00:00:00","startDate":"2012-11-09T10:30:00","endDate":"2012-11-09T12:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"RENNELA
 Albert"},{"key":"Champ2","displayName":"Coordonnées","value":"5676"},{"key":"Champ3","displayName":"Organisateur
 ","value":"RENNELA
@@ -15955,7 +15955,7 @@ Patricia"},{"key":"Champ2","displayName":"Coordonnées","value":"5459"},{"key":"
 Patricia"},{"key":"Champ4","displayName":"Objet","value":"Cross
 digital"},{"key":"Champ5","displayName":"Nb de participants
 ","value":"10"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":"Présentation
-outil 'Espace Client' Canal
+outil  Espace Client  Canal
 "},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":4072,"visit":null,"creationDate":"2012-11-07T10:48:55","owner":"patricia.santoni","creator":"patricia.santoni","lastUpdateDate":"2012-11-19T10:44:10","lastUpdateLogin":null,"EID":"407238936178","resource":{"id":155,"displayName":"Penduick","url":"api/v1/resources/155"}},{"id":4073,"date":"2012-11-07T00:00:00","startDate":"2012-11-07T16:00:00","endDate":"2012-11-07T17:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"ABITBOL
 Corinne"},{"key":"Champ2","displayName":"Coordonnées","value":"5589"},{"key":"Champ3","displayName":"Organisateur
 ","value":"ABITBOL
@@ -17012,12 +17012,12 @@ de participants
 Maria","url":"api/v1/resources/157"}},{"id":4340,"date":"2012-11-20T00:00:00","startDate":"2012-11-20T15:00:00","endDate":"2012-11-20T16:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"PINCON
 Laure"},{"key":"Champ2","displayName":"Coordonnées","value":"5527"},{"key":"Champ3","displayName":"Organisateur
 ","value":"PINCON
-Laure"},{"key":"Champ4","displayName":"Objet","value":"Levi's Réunion
+Laure"},{"key":"Champ4","displayName":"Objet","value":"Levi s Réunion
 "},{"key":"Champ5","displayName":"Nb de participants
 ","value":"6"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":4340,"visit":null,"creationDate":"2012-11-19T18:52:47","owner":"laure.pincon","creator":"laure.pincon","lastUpdateDate":"2012-11-19T19:03:55","lastUpdateLogin":null,"EID":"434067968681","resource":{"id":158,"displayName":"Hermione","url":"api/v1/resources/158"}},{"id":4341,"date":"2012-11-20T00:00:00","startDate":"2012-11-20T15:00:00","endDate":"2012-11-20T16:30:00","fields":[{"key":"Champ1","displayName":"Qui","value":"PINCON
 Laure"},{"key":"Champ2","displayName":"Coordonnées","value":"5527"},{"key":"Champ3","displayName":"Organisateur
 ","value":"PINCON
-Laure"},{"key":"Champ4","displayName":"","value":"Levi''s Réunion
+Laure"},{"key":"Champ4","displayName":"","value":"Levi  s Réunion
 "},{"key":"Champ5","displayName":"","value":"6"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":""},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":4340,"visit":null,"creationDate":"2012-11-19T19:03:55","owner":"laure.pincon","creator":"laure.pincon","lastUpdateDate":"2012-11-19T19:03:55","lastUpdateLogin":null,"EID":"","resource":{"id":669,"displayName":"Laptop
 1","url":"api/v1/resources/669"}},{"id":4352,"date":"2012-11-30T00:00:00","startDate":"2012-11-30T08:00:00","endDate":"2012-11-30T14:00:00","fields":[{"key":"Champ1","displayName":"Qui","value":"HAYAT
 Geoffrey"},{"key":"Champ2","displayName":"Coordonnées","value":"5724"},{"key":"Champ3","displayName":"Organisateur
@@ -17434,7 +17434,7 @@ Emmanuel"},{"key":"Champ2","displayName":"Coordonnées","value":"5603"},{"key":"
 Emmanuel"},{"key":"Champ4","displayName":"Objet","value":""},{"key":"Champ5","displayName":"Nb
 de participants
 ","value":"4"},{"key":"Champ6","displayName":"","value":""},{"key":"Champ7","displayName":"Commentaire","value":"Meeting
-client Mc Donald's de Kristie
+client Mc Donald s de Kristie
 "},{"key":"Champ8","displayName":"","value":""},{"key":"Champ9","displayName":"","value":""}],"status":1,"idGroup":4318,"visit":null,"creationDate":"2012-11-19T12:19:06","owner":"emmanuel.de
 coral","creator":"emmanuel.de
 coral","lastUpdateDate":"2012-11-19T12:19:06","lastUpdateLogin":null,"EID":"431844347166","resource":{"id":654,"displayName":"Black

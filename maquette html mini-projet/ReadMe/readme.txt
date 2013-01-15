@@ -83,3 +83,10 @@ Sources utiles :
 
 http://stackoverflow.com/questions/3030321/jquery-each-loop-with-json-array
 http://stackoverflow.com/questions/6298599/jquery-each-json-array-object-iteration
+
+
+a regarder :
+jsonp
+gettoken
+alert(token)
+callback (json cross-domaine)

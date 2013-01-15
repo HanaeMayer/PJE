@@ -9,18 +9,26 @@
 	</head>
 	
     <body>
-	
+		<input type="button" value="Bonjour" onclick="fonctiontest()"> 
 	<script>
+function fonctiontest(){
+	alert("test");
+	
+	$.getJSON('http://pluginoutlookomnicom.urbaonline.com/api/v1/authentication/getToken?login=hanae&password=urba2012&callback=mafontion', function(json) {
+	window.alert("getjson");
+	function mafonction(data){
+		window.alert('data');
+		};
+	/*
+	var items = [];
+		
 
-	$.getJSON('reservations.json', function(json) {
-		var items = [];
-/*
 		$.each(json, function(key) {
 		
 			if(val){
-				items.push('<span>' + json[key].id + '</span></br>');
+				alert(val);
 			}
-		});*/
+		});
 		
 		$.each(json, function(key, value) {
 
@@ -52,9 +60,11 @@
 			html: items.join('')
 			}).appendTo('body');
 			items.length = 0;
-		});
+		});*/
 	});
+*/
 
+};
 		</script>
 	
     </body>
