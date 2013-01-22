@@ -11,15 +11,15 @@ function initTodaysPage(){
 
 function getToken(){
 	$.ajax({
-		url : "http://pluginoutlookomnicom.urbaonline.com/api/v1/authentication/getToken?login=yves&password=urba2012",
+		url : "http://pluginoutlookomnicom.urbaonline.com/api/v1/authentication/getToken?login=hanae&password=urba2012",
 		dataType : 'jsonp',
 		success : function(data){
 		validToken= data.Token
-		console.log(validToken);
+		//console.log(validToken);
+		alert(validToken);
 		} //votre callback
 						
 	})
-	alert(validToken);
 	}
 	
 function generateHtmlUsingToken() {
